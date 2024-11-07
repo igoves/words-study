@@ -1,0 +1,387 @@
+During my three-decades and change in the software industry I’ve had to opportunity to work alongside hundreds of software developer peers who started out as junior engineers, just like I have. Over the years I’ve watched some propel themselves into the higher echelon of the profession to become engineering managers, directors, VPs and CTOs. One or two, none of which is me in case you’re wondering, even rose to become much sought-after “tech celebs”, with an impressive number of followers on social networks and tech giants “applying” for an “employer” position with them.
+
+On the flip side, I’ve also watched countless others unwittingly getting stuck in the same role, at the same level (or pay) for more time they care to admit, despite of how much they loved of what they were doing or how strongly they desired to advance their career.
+
+It always piqued my interest to clearly understand the root cause of the contrast between two comparable software developers when one of them is recognized, rewarded and promoted, while the other stagnates in place, much to his or her resentment.
+
+What makes them different? Is it intelligence? speed? attitude? knowledge? people skills? capacity for office politics? I honestly wasn’t sure. So years ago I conditioned myself to begin observing, recognizing and tracking the factors I found to be helpful in moving software developers up the professional ladder, as well as those that hindered such upward mobility.
+
+Title != Ranking
+
+Software development has its own industry honorifics, or “ranking modifiers”. If you have been in tech in the last decade, chances are you encountered terms like “Rockstar”, “10x”, “Ninja”, “Jedi” and a few others used in reference to software engineers who are considered exceptional. Regardless of the terminology, its validity, or how people feel about it, the irrefutable fact remains that in any software development organization there are those considered better than peers of the same title and position and because of that, individuals who share an identical title don’t always share equal ranking, standing, pay or place in the queue for promotion.
+
+But how exactly is ranking decided? do “10x” software developers follow some kind of clear pattern setting them apart from others? or is the bestowing of lofty modifiers such as “ninja” or “rockstar” as frivolous and volatile as winning a middle-school popularity contest?
+
+Not Quite, as I found out.
+
+What the heck is a “10x developer”
+
+In my experience, a “10x” developers bring noticeable perceived value to the organization that far exceeds that of their peers in a magnitude that stands out so clearly, it cannot be overlooked or downplayed.
+
+Note the word noticeable. It’s a critical modifier to perceived value. After all, with building stealth fighters being the exception — no one reaps recognition for work that goes unnoticed.
+
+What is it not
+
+Many confuse “10x” with “X * 10” believing a “10x” developer is a superhuman who does the work of 10 developers or works 10 times faster than the average “1x” developer. It’s an easy mistake to make given 10x is identical, math notation wise, to x * 10.
+
+While speed is undoubtedly important in software development, its source doesn’t always trace back to brute force factors such as typing 10 times faster, juggling 10 different things at once, or thinking10 times faster. Sometimes value which may include speed but usually encompasses many other factors can be achieved by developing oneself across other dimensions. We’ve all heard the phrase: “Don’t work hard, work smart”. But what does that even mean in real life?
+
+Lingering on the issue of speed just a bit more, the semiconductor industry is a great example of how one can become significantly faster by stopping the obsession with improving his or her speed, as strange as it may sound.
+
+In the 80’s and 90’s CPU makers were able to gradually increased the speed of their processors in part by dialing up the number of cycles a CPU processes per second (measured in MHz in the olden days and in GHz today). For example: take a Pentium processor working at 2GHz, and make it work at 4GHz In and you’ve created a faster version of it. It sounds great on paper and for many years the “number of Hertzs” was synonymous with just how fast computers were ranked, but in the early 2000’s that practice started hitting the wall of physical limitations. A new enemy rose to stand in the way of infinitely dialing up the CPU clock speed. That enemy was heat — the inconvenient physical truth that could fry motherboards into smoldering paper weights if not respected.
+
+Soon enough it became clear a new approach was needed to keep up with an ever increasing demands for more computing power. The result was the introduction of the multi-core CPU. A better way of attaining speed, not by a forced increase of clock speed, but rather through common-sense optimization. Working smarter. Instead of pumping more “juice” into a single CPU core and risk overheating, why not split heavy tasks between multiple independent CPU cores working in parallel. This avoids the issue of overheating while opening up a whole new vector by which computing power can be increased merely by adding more CPU cores. Why limit ourselves to one engine with power limitation dictated by physics when you can have 2 that are kept below their physical limits? or 4? or 16? or 32? or 96?
+
+Similarly, “10x” developers possess traits that not only contribute to overall speed, but to other dimensions software companies deem important, such as method, cost, quality and predictability. We’ll mention some of those traits in detail further down this article.
+
+Upward mobility along the “X axis”
+
+Photo by Johannes Plenio on Unsplash
+Can a “1x” developer become “10x” by sheer will alone? The short answer is “Yes”. The longer answer is “Yes, but”, with a long dump of additional verbiage.
+
+Yes: There are patterns of conduct, attitudes and approaches that would allow you to generate value to the organization in a way that would get you noticed and eventually recognized and rewarded. Hence, you will emerge a “10x” from a “1x cocoon”.
+
+Yes, but: This will not be an easy “12 steps program”. “10x” rankings aren’t sold on Amazon and no courses award you a shiny “10x” certificate upon completion. In fact, the only way to attain a “10x” developer ranking is to earn it from your peers and supervisors as a sign of genuine respect and as such, it’s one of those things in life that cannot ever be bought or self-proclaimed. To be “10x” others must recognize you as such. If you are the only one tooting your 10x horn, you’re probably not it.
+
+Following some of the advice below isn’t easy. On one hand, it’s not a precise step-by-step cookbook but rather a collection of general guidelines and suggestions. On the other hand though, it’s important to remember that this advice works. I’ve seen it work for myself and for others and I’ve seen it work repeatedly over two decades now. If you make a commitment to yourself to follow them in spirit and practice, in time they will make you a significantly better software developer and will get you noticed.
+
+For the cynics
+
+I get you. I am you. I’m a board certified cynic who smirks at concepts “self improvement”, thinking of them as no more than elaborate new-age BS, one morality-scale notch above fully-blown scams created with the sole purpose of selling books and booking expensive tours. On the other hand, I cannot claim in good-faith that self-improvement is rooted in self-deception. To do that would be to deny what I’ve seen and experience in my 30+ years in software.
+
+I know Developers can better themselves and with every iteration of self improvement they don’t just assimilate the skills and traits they’ve worked toward — they also learn with absolute certainty they can change, grow and evolve in ways that make a real impact on their careers. They learn how they can change the way others perceive them, and perhaps, most importantly, how they perceive themselves.
+
+You’d be surprised how many people walk around thinking they have been, are and always will be “as-is”, always falling short of becoming a better versions of themselves. Trust me, I know. I also know how those people feel once they’ve finally managed to surprise and impress the only true important critic in their lives: themselves.
+
+Truly impressing yourself isn’t something you can fake. Therefore, once you’ve truly impressed yourself, impressing others gets way, way easier.
+
+Do we even want to be “10x”?
+
+Not all doctors feel an urge to publish groundbreaking papers in leading publications. Some just enjoy running a relaxed practice and see between 15 and 25 cases of Pharyngitis, day-in and day out until they retire. Some would call that boring, while to others it will bring a sense of security, stability and serenity. Ask a small town doctor.
+
+Similarly, not everyone will want, nor feel an urge to be stand out as a “10x” software developer and evolve professionally to become CTO of a tech giant. If you know your stuff, enjoy what you’re doing, show up on time, and deliver your work in a timely manner and reasonable quality you’re already in a good place. Why would you care to change things?
+
+However, if you want more, then just like with any other merit-based hierarchy where you start out at the bottom, moving up will require you to take the extra step, stand out and get noticed as a software development professional. The purpose of this article is to point out common self conduct anti-patterns detrimental to the goals of those who do want to get noticed, recognized and rewarded.
+
+And just because most things in life are relatable to Star Trek:
+
+“Tapestry” is one of my favorite Star Trek TNG episodes (Season 6, episode 15). I think it raises one of the more honest and realistic subject matters ever discussed on the show. The episode begins with Captain Picard sustaining a life threatening injury during an away mission and rushed into an emergency procedure to replace his damaged artificial heart. He had lost his organic heart in his early 20’s to a juvenile ego-driven bar-fight with a 7-foot ill-tempered Nausicaan, a foolish choice with dire consequences Picard regretting for most of his adult life. While under anesthesia, Picard finds himself in the presence of Q who offers him a “second chance” to correct that mistake. With his usual omnipotent control over time/matter, Q brings Picard back to his early 20’s for a do-over. When faced again with the same Nausicaan, he makes the “adult” choice by putting his ego aside, resisting the provocation attempts by the Nausicaan, and avoiding the fight that cost him his organic heart.
+
+However, as it turns out, that single change unraveled the entire tapestry of Picard’s life from that moment on, re-writing his life story in a completely different way. Picard finds himself back in the present day, but he’s no longer captain. Instead, he’s a dull science officer whose job consists mainly of composing reports and presenting them to his superiors. Abhorred by the prospect of having to life this life, Picard speaks with the ship’s counselor Troy, confides in her his desire — to command, only to find her staring back at him with disbelief. She finds it hard to believe the dull, gray junior officer who’s already over the hill, age wise, would want to or even be able to command starships. Picard realizes that by acting out of impulse as that brash young man, he may have made a mistake that cost him dearly, but his entire career of standing out and being offered command is owed to a split-second decision to stand up the Nausicaan and fight despite the risk and disadvantage. Without that childish bar fight, he was always doomed to become a kind of pencil pushing clerk who never took a risk and therefore never got noticed and never offered any significant role within Starfleet.
+
+Once Picard realizes that the thing he regretted was a crucial stepping stone on the way to what was always meant to become, he asks for a third chance, admitting his mistake to Q. He then goes back in time, confronts the Nausicaan again, gets impaled through the heart once more and wakes up at the end of his artificial heart replacement procedure as the captain he was always meant to be.
+
+Fortunately, becoming a “10x” developer doesn’t usually involve being stabbed through the heart by an ill-tempered alien. But it most likely require you to stand out and get noticed, and that is not something one does from the chillaxed side of the one’s comfort zone, nor by following a formal job description to the letter, never exceeding it without an explicit order from a “superior officer”.
+
+Ready? Let’s begin.
+
+Anti-Pattern #1 — You work hard and slow because you always surrender to the urgency of “now”
+
+Photo by Ocean Ng on Unsplash
+Imagine you’re a lumberjack living in 1870. You work a far corner of a forest with your ax. You and your ax are a great team and together you can cut down 10 trees in a single day’s work. One day a friend tells you they just came out with a new and improved ax that can help you cut 20 trees a day. The only caveat is the 120 miles separating you and the store where that axes sold. It will take a two days journey for the round-trip and Amazon Prime hasn’t been invented yet.
+
+You know doubling your productivity to 20 trees a day will allow you to complete your work faster, not just for the current job but for all future ones too, allowing you to cut more trees in less time and earn more, or alternatively, work half as hard and half as long for the same earnings you’ve had thus-far.
+
+However, contrary to common sense, you’re unwilling to invest the two days required to upgrade your ax. You excuse this by telling yourself you have no time to spend because you have lots of trees to cut down right now and you don’t want to fall behind schedule. So you opt to remain with your old ax and continue working as before.
+
+Does this make sense to you? While I agree the lumberjack story sounds a bit outlandish, it’s not entirely out of place in a software engineering context. Consciously opting for slow, hard and repetitive work because of the demands and constraints of the NOW is far more commonplace in software development than you might think. How developers handle the dilemma whether to just do the work they need to do right now, vs. stepping back for a moment and improving their ability to work before proceeding with the actual work is one of the more obvious differentiators between “1x” and “10x” software developers.
+
+Leaving the forest behind, let’s focus on a 21st century story involving a software developer.
+
+Imagine you’re tasked with implementing a Django based RESTful application server. You’ve never done that before but the documentation makes it sound easy: Install this, install that, copy paste stuff into your terminal and voila, within a few minutes you have a working “hello-world” backend running on your dev machine. Congratulations! But wait… the devil’s in the details and unless your company makes SaaS products that just greet their clients, “hello-world” isn’t a deployable production application, and even before the application-specific context is put in, lots of work remains to be done on scaffolding and architecture.
+
+You need to come up with the generic base model objects, decide how to handle authentication, customize the return responses for common structure, put in middleware components that that handle various common scenarios, build support for cloud based file upload, create your own cache policy and set up the generic views upon which you’ll be basing your request processing. Additionally you require Elasticsearch integrated into your models for faster search, support for asynchronous job execution, cloud logging, volatile in-memory key/value storage, cloud deployment strategy for staging and production, error reporting integration, email and text message capabilities and many other small aspects you deem required by any modern application backend. The list goes on and on.
+
+All that has to be ready before the application-context “business logic” pertaining to the specific application at-hand can be built. Depending on your expertise It could be days or weeks before you get to the point where you have a generic project scaffolding sufficient for what you to begin the application-context work.
+
+You do that work once. It takes you 3 weeks.
+
+Now, fast forward a year.
+
+You’re on a different team, different application, and having done that before, you’re tasked with creating another Django based application server again — and yes, it’s urgent. “We need it yesterday”, much like anything else in the software dev world.
+
+How do you proceed?
+
+The “1x” Way
+
+You really have two options here, neither is great when it comes to speed and level of effort required:
+
+Take the code from old project, duplicate it aside, work tirelessly to weed out every single old application-context code, trying to get to that clean state you had before the first line of application-context code was written. That depends of course on you still working in the same place and having access to the code you wrote before.
+Simply repeat what you did a year ago from scratch. It may take you days or weeks depending on the level of effort you’ve invested before, minus what you can save here and there by remembering issues you encountered and spent time resolving last time.
+The “10x” Way
+
+Just like you the 10x developer also worked on that Django application server for the first time a year ago. And Just like you, he or she is tasked with creating another application server that uses similar technology for a completely different project.
+
+However, the 10x developer will not have to copy the old project and spend weeks weeding out things from it, nor repeat the tedious process from last year again.
+
+The 10x developer believes in the power of automation, scaffolding and rapid prototyping. He or she knows this approach can virtually eliminate repetitive work, generate a project scaffolding in seconds instead of days or weeks, and answer the “we need it now” call with a “you’ll have it shortly” response.
+
+A year ago, when the 10x developer created the generic scaffolding for the first Django application server, he or she realized this task is likely to repeat in the future for other projects. Remembering the effort it took to reach that point, he or she took a short detour, putting off implementing the application-context features and focusing on creating automation that can generate that scaffolded application from scratch, along with every tedious step that had to be taken to reach the stage where specific application-context code can be poured in.
+
+This paid off big-time.
+
+A year later, as the 10x developer was tasked with creating a new Django based application server for a new project, the scaffolding phase took 30 seconds, not 10 days, definitely not 3 weeks. And how much time will it take to scaffold the 10 next projects? that’s right, 300 seconds. And since the scaffolding contains no company-specific code, it can also migrate with you to your next job.
+
+To paraphrase our lumberjack story, the 1x developer chose to stay with his 10-trees-a-day ax, while the 10x developer opted to put off “chopping trees” for a while and spent the time acquiring a better ax. The investment paid off the now now the 10x developer doesn’t have to work as hard as the 1x developer for the same results. The time savings and efficiency has a big impact and gets noticed. At the same time, the 1x developer will “work harder forever” doing the very same thing.
+
+TL;DR
+
+Are you doing repetitive menial and detail oriented work, time and again, just in order to bring yourself to where you’ve already been before? Stop. You’re not doing it right.
+Climbing your first mountain can be hard. Climbing that mountain again should be effortless for a software developer who does things right.
+Computers are built for automation and they never complain about repetitive tasks. If you are spending too much time as a copy/paste specialist or an install/configure technician you’re increasing your workload, while slowing delivery down. That’s a lose-lose scenario for your career as well as the organization you’re working for.
+Never be afraid to put “context specific” work aside for a moment as you go shopping for a “better ax”. It will almost always pay off.
+Automate the s*** out of every single repetitive task you find yourself doing. When tasked with “big task T” which you think you may have to re-do in the near future again, do not merely implement T. Implement a way to get T done instantly as closely as you technically can, as many times as you need it, and then use this automation to implement the T you need right now, and that you’d need later.
+Develop a close relationship with your terminal and teach yourself advance scripting. This is where your best automation magic takes place. It’s not just fun, it’s useful. A well formed terminal command can do the job of 10,000 mouse clicks and drags in an instant.
+Be aware of what you’re spending your time on. Seriously — clock yourself. What are you doing more of? work? or prep-to-work work? It should be the former. The beans are in the “work”.
+Fear may be the mind killer, but repetitive work is the productivity killer. It will rot your brain as well as your career. Avoid it like the plague with automation.
+Anti-Pattern #2 — You let fear get the best of you
+
+Photo by Vadim Bogulov on Unsplash
+If you’re a lifelong Star-Wars fan like me, surely you recall that scene from “The Empire Strikes Back” where Yoda begins to train Luke Skywalker as a Jedi in the swamps of Degobah. Yoda leads Luke to a cave where the dark side is strong and asks him to enter it alone and unarmed. Unable to control his fear, Luke refuses to heed Yoda’s advice and enters the cave fully armed, thus failing the test much to Yoda’s disappointment.
+
+What to know how scary caves on a distant imaginary planets relate to software development?
+
+Simple. Nearly every code project that’s been around long enough has a scary-ass cave where the dark side reigns. It’s the place developers are afraid to enter. It worked as-is since the ancient times, but it has lost its engineering parents a long time ago, and those who were familiar with it are no longer there to advise. It’s function has been satisfactory thus-far but no one really how, or worse, why it even works.
+
+But now it’s malfunctioning or needs to be updated due to a changing roadmap and there is no escape or room for delay. Someone will have to go in there and do the job. Now. A quick round of hot-potato has sealed your fate. You will be the one to venture into the unknown, alone and unarmed.
+
+The “1x” Way
+
+You already feel the cold sweat of stress and fear. You really don’t want to do this and for what you believe is good cause. You keep asking yourself:
+
+What if I can’t find what’s wrong?
+What if I unwittingly break B while trying to fix A? What if this breaks everything?
+How can I safely fix an area of the code no one knows anything about? What if I screw up?
+When faced with challenges of this type, especially those revolving around fixing legacy issues in unfamiliar code, 1x developers tend to opt for what’s called minimum change required. They’d look for the “minimally invasive” way to fix the issue at hand without rocking the boat too much.
+
+They’d typically try a set of “trial and error” attempts until they can verify a reproducible malfunction no longer occurs after a small scale fix. They would then submit the fix to QA along with a request for a full-regression testing to make sure the change made does not break anything else in the application. Once QA certifies the build, it will be pushed to production and the emergency will end. Then it’s back to DEFCON-5 for the 1x developer.
+
+But is this always the optimal way of handling legacy code emergencies? Obviously a production issue needs to be resolved right away. Quick-and-Dirty fixes are not always the wrong choice. But should a quick-and-dirty fix be the end of it? or can more be done?
+
+For many 1x developers, one issue warrants one fix and that’s the end of the story. ends there. Sometimes, that may be a strategic mistake, especially when facing a slew of such requirements to make changes in problematic legacy code. But for the “1x” developer this could also mean missing a golden opportunity to shine, conquer fear and come out victorious and stronger (which would make Yoda happy).
+
+The “10x” Way
+
+10x developers know the dark cave is merely a piece of old code that’s been working for a long time and has been left alone. They know most developers are reluctant to deep-dive there, and they know they would benefit from becoming the experts on that subject. They do not fear it, nor attribute mystical properties to it. Realizing production issues are an emergency they may opt for the quick and dirty fix first, but that will never be the end of it. They’ll later study the code, demystify, and re-factor it in a way that makes long-term sense, allowing it to catch-up with the rest of the codebase. By doing that they’d be reaping the reward and “hero-worship” that comes with taming the beast. That area of the code will not scare anyone anymore.
+
+The monster under the bed is stops being scary once you venture down there with a flashlight, as you probably recall. It’s the same for code.
+
+“Based on a true story”
+
+In early 2000 I worked for a Silicon Valley software company that made interactive graph visualization and interactive diagramming tools (think Microsoft Visio to get an idea). User-interactive diagramming operations such as moving, resizing, editing and selecting of nodes and labels, or connecting and disconnecting functions for edges were all neatly tucked into what we called “the diagramming layer”.
+
+That diagramming layer traced its roots to the early 90’s. By the time I joined the company it was already legacy code, and the original developer was no longer with the company. We were in the middle of major version release cycle when larger workloads which were part of that release caused things to start breaking frequently within the diagramming layer.
+
+For months a new “diagramming champion” would inject small fixes here and there, with partial success up to a point where things became so convoluted, where like in a whack-’em-all game, you’d hit a bug on the head, only to have two more pop-up elsewhere. It was clear the new diagramming champion wasn’t up to the task. Shortly thereafter that developer left the company and we tasked a new hire, a recent graduate whom we hired as an entry level developer with fixing the issues, thinking a fresh paid of eyes could help. Knowing the complexity of the code, we did not have any grandiose expectations beyond fixing the known bugs. Boy, were we in for a treat.
+
+That junior developer did not just “fix the bugs”.
+
+He analyzed the old diagramming legacy code in its entirety, understood it, and completely refactored it over the course of a few weeks, not only making all chronic problems magically go away, but also boosting performance by nearly 500% — a major win for our once relatively sluggish graphical editing tools. Intensive operations such as zooming in/out, panning or selecting even on graphs with tens of thousands of nodes, edges and labels became butter smooth UX and seemed real time thanks to a state of the art quad-tree and caching mechanism he came up with.
+
+That major version had been a tremendous success and replacing the diagramming layer with a refactored one had a big part to play in this. Had we kept the “let’s just fix the bugs” approach we would have pulled it off eventually without triggering additional landmines, but we would have never boosted performance and stability and we would have retained an old, sluggish and problem-prone legacy code, waiting to break-down on us again at the first sign of increased roadmap demands.
+
+No software company should tolerate chronic code-health issues. These cost dearly in capital, stunt roadmaps, hinder progress and force diverting engineering resources to hunt issues instead of building out the roadmap vital to the business.
+
+Needless to say, that junior engineer wasn’t treated as a junior anymore. A few interesting things happened to him following the refactoring of the diagramming component.
+
+He became the de-facto owner of a super-vital layer in our codebase.
+He started getting more and more critical work his way. In time this paved the way for him to become one of the most important people in the organizations.
+He was promoted to lead a team to expand diagramming into other areas the roadmap called for.
+He gained “immunity” when harsh times (the 2001 dot-com bust if you must know) forced the company to downsize, laying off a portion of its engineering workforce. He was simply too valuable to let go. So we let other people go instead. Being valued has rewards reaching far beyond the ego.
+He gained experience and confidence which helped further his career down the line.
+Few years later, when it was time for him to move on with his career, the references that he got from us reflected the amazing things he had done for the company. Any experienced hiring manager can immediately tell the difference between your old boss doing you a favor by saying you were just peachy, and a detailed manifesto of bleeding appreciation like the one we provided him. That helped open a lot of doors, not that I think he needed it with his attitude and capabilities, but still.
+Today, more than 20 years later, he holds a senior engineering position with Amazon and I’m pretty sure he is just as vital there as he was with us in the early 2000's. The term “10x” wasn’t really used back then, but that’s exactly what he became under our roof, and that really paid off for him.
+
+TL;DR
+
+Do not attribute scary properties to legacy code. It’s just code. There’s no dark magic at play here.
+Do not fear legacy code deep-dives. Study it without prejudice or awe and make yourself an expert.
+Aspire to become that go-to person whenever a need arises to to make fixes or changes in legacy or otherwise problematic code. Never pass an opportunity to turn festering shit into gold. Be that alchemist!
+Do not fear making deep changes in legacy/problem code once you’ve mastered it. Refactor, re-write. Whatever it takes. Make it new, make it yours, make it work.
+Be the “hero” especially if everyone else around you is reluctant to. Do the hard things others try to avoid. It will pay off. Continuously doing grunt work others are reluctant to engage in will help you gain advantage, stand out and get noticed. You also may find that just like in a gym, hard work is mandatory before you see results, but when you finally see results, things get much easier.
+In a typical software project with legacy roots the “sexy” stuff everyone wants to be involved with tends to be the new “from-scratch” dev work. However, the legacy code tends to represent the most strategically important foundation of the project. Being the technical owner of that far exceeds the benefits of owning a new cool feature.
+Anti-Pattern #3 — You believe “fearless” and “crazy” belong in action movies, not software companies
+
+Photo by Giorgio Trovato on Unsplash
+I think we can all agree that words like “fearless” or “crazy” don’t typically come to mind when thinking of rows of software developers typing away at their desks, listening to music on their noise canceling headphones, while occasionally sipping at their favorite form of liquid caffeine.
+
+I personally know software developers who do put their “fearlessness” or “craziness” to the test with activities such as skydiving, flying aerobatic airplanes, free mountain climbing, or agreeing to be a guinea-pig in a government sanctioned mRNA vaccine experiment. However, that risk-taking-as-a-hobby attitude is typically checked at the door before heading to work.
+
+Have you ever seen “fearlessness” or “capacity for craziness” listed as a must-have on software development job postings? I haven’t, but I wouldn’t completely disqualify the notion that some highly disciplined, carefully measured portion of “crazy” and “fearless” can lead to good things. I’ve seen it happening.
+
+Obviously by “fearless” or “crazy” I am not referring to anything that can land you in prison, dishonored registries, or a hospital sub-zero. So what can “crazy” or “fearless” mean in the context of software development and why can it sometimes be the booster rocket upon which your career can hitch a ride upwards? There are a few areas where one can stand out. Some are rather mundane, even low hanging, while others are located deep outside the comfort zone of most and would require mental preparation and careful pro/con thinking before venturing into:
+
+Innovating and pushing boundaries: Innovation often requires thinking outside the box and challenging the status quo. Being fearless allows developers to explore new ideas, experiment with unconventional solutions, and potentially make breakthroughs that can revolutionize an industry.
+Learning and growth: The technology field is rapidly evolving, and keeping up requires a willingness to dive into unfamiliar territories. This means being unafraid to tackle new programming languages, frameworks, or paradigms that might initially seem daunting.
+Problem solving in uncharted waters: Developers often encounter unique or complex problems that don’t have established solutions. Being fearless helps them to approach these challenges with a mindset that is open to trial and error, understanding that failure is a part of the learning process.
+Dealing *well* with uncertainty: Projects can have ambiguous requirements or goals that change over time. A fearless approach helps developers to adapt quickly and make decisions in uncertain environments, which is crucial for project success.
+Advocating for change: Sometimes, developers need to advocate for changes in technology, processes, or even organizational culture. This requires a certain level of boldness to challenge existing norms and propose new ideas, especially if change is met with resistance upstream.
+Risk taking: Fearlessness is about taking calculated risks. Whether it’s trying a new technology stack or pushing for a radical change in a product, such risks can lead to significant rewards like improved performance, better user experiences, or new market opportunities.
+Resilience: The nature of software development can include setbacks and failures. A fearless attitude helps developers to persevere, learn from mistakes, and continue moving forward. Keep positive and never project the toxins of despair outward, even if you feel it bubbling inside.
+Helping your company against its will: This is here the most extreme and potentially risky form of “crazy/fearless” in a corporate environment. There are times when software developers find themselves in a position of identifying opportunities and solutions others may not see, giving birth to action plans they believe will benefit the company greatly. But how would you react if your idea was dismissed as unrealistic? What if you disagreed with that determination? Would you be “crazy” enough to still pursue it anyway and prove its worth? What if you were explicitly told not to? Would you still spur you into action anyway, taking an enormous risk if you fail? Those without capacity for “crazy” will most likely stand down in frustration. But every now and then, taking the “crazy” route can pay off for those who are calculated, sure of their ability to deliver and can operate “rogue” without sacrificing their assigned day-today duties in the process.
+“Based on a true story”
+
+In 2012 I was working as an engineering manager for a leading provider of video conferencing software and hardware. Back then Corona was still synonymous with beer, and a small company called Zoom which was to take the video conferencing world by storm a few years later at the height of the pandemic registered on our competition radar with the same level of threat as the Empire perceived the escape pod used by R2D2 and C-3PO in “Star Wars: A New Hope” to smuggle the Death Star plans to Obi-Wan Kenobi on Tatooine. We didn’t even bother “firing our lasers”.
+
+The company was founded with the idea of providing affordable alternatives to the $250K industry-standard video conference room setups provided by giants like Cisco. It built its technology around a groundbreaking video codec it developed and patented. It allowed for multi-party video conferences in HD quality, but unlike the competition, it did not depend on having an expensive dedicated IP bandwidth and could work off the standard internet connection clients already had.
+
+Later on the company also developed software-only solutions for Windows, MacOS (then OS X), Linux, iOS and Android, so that those on desktops, laptops, smartphones and tablets could connect with the existing video room ecosystem.
+
+My role was to lead the desktop group responsible for the Windows, Mac and Linux flavors of our video conferencing application, which were already mature products by the time I joined. Historically, the Windows edition was developed first. A few years later the Mac version came to life, and finally Linux.
+
+I immediately noticed an issue. The kind that keeps on “giving” unless you put an end to it.
+
+You see, long ago, when the need arose to have desktop applications to complement the video conference room product, it was only natural that the first target should be Windows. The company hired a windows team and they, decided to use C, and pure WIN32 API calls. That’s as “native” as you could get developing for windows without venturing into truly low level realms like Assembly language. The advantage in that approach was that nothing is really hidden or abstracted or pre-chewed for you. The disadvantage was that coding an “About box” would run you 150+ lines of code, just for the small popup window, an “OK” button which closes it, and maybe a few lines of text in the middle of it.
+
+So far, one codebase.
+
+A few years later it was decided that a Mac version is needed. Building a WIN32 codebase to create a native Mac applications isn’t an option for obvious reasons so a completely new codebase was created, just for Mac, with Objective-C and deep usage the native Mac API layers.
+
+Make that two codebases.
+
+Shortly thereafter, as you might have guessed it was time to acknowledge Linux as well. The team was expanded, again, and the Linux application was developed, this time in C++ using a UI library called Qt.
+
+One more. Three codebases. Yay.
+
+I found myself taking over the desktop group, inheriting their three distinct codebases, three distinct languages and three distinct frameworks. With the roadmap busting with new feature requests, the pressure was constantly on to launch regularly, frequently, and simultaneously for all 3 platforms, without letting any platform lag behind the others in features.
+
+Over a few months I discovered the difficulty of producing simultaneous incremental releases of one application across 3 different platforms, each in its own distinct codebase. Every feature we added or change we made needed to be done three times, one for each codebase, platform, language and framework.
+
+We were working 3x as hard, just to deliver the same feature, done 3 times over while being 3x slower than we should. We were expected to continue doing so indefinitely, despite of having a viable alternative, and the worst thing was that no one seemed to mind it, and by “no one” I’m referring to those who didn’t have to do the aforementioned redundant work. They did not mind others doing it. Things were getting “Dr. Seuss” ludicrous. It was time to act.
+
+Trying door #1
+
+My first stop was the CTO’s office. I decided to raise the issue and suggest we continue to develop those three distinct codebases while scaling back a bit on chunk of the roadmap bite we take with every release cycle. At the same time, I suggested we work on a single cross-platform codebase capable of building for all three platforms. In time, maintaining the application will get easier, we will not have to triple our development time for each new feature, and platform launches will be synced and predictable.
+
+The CTO gave me a look which reminded me of those viral videos of the faces babies make when trying to bite down on a lemon for the first time.
+
+“Have you looked at the roadmap?” he asked.
+
+“I have, and that’s mainly why I’m suggesting this. We are working on one product with an effort levels of three and we’ll have to keep at it indefinitely. If there’s a better alternative, why not go for it?”
+
+I don’t remember the exact words used but the CTO’s final verdict was something along the lines of “We can’t slow things down just to start the same project from scratch”.
+
+The bottom line was that my suggestion was dismissed and I was told to mothball the idea. To this day I am not sure if the CTO fully understood the long-term benefits of my suggestion or thought it was just too radical to consider. I wasn’t given a detailed breakdown of his reasoning.
+
+I was disappointed, sure, and for a while I accepted the CTO’s ruling just like any “1x” developer would. After all, he was my boss. For weeks on end I was grinding my teeth under the pressure of getting every single new feature written three times, in three different languages, under 3 different frameworks, for 3 different platforms — only to build the same single application.
+
+Fuck the front door. I’m going around the back.
+
+Gradually the bleak realization I’d have to keep doing this for the foreseeable future evolved from a mild background irritant at the back of my mind, into a fully blown revulsion I could no longer repress. I am not going to take this idiocy.
+
+Never tolerate harmful stupidity, even if those who outrank you don’t want to be “bothered by it”, or oblivious to it or simply willing to tolerate other people’s pain with grace. If the required change isn’t sanctioned, appoint yourself to be the agent of change and act.
+
+I then decided to do something some may call “crazy”. I decided to continue as-is with developing those three codebases, but in addition and in secret, I was going to develop a new codebase that’s cross platform to one day replace what we have today.
+
+Living a double life
+
+I’ve developed my side project for about 10 months before I felt it was good enough to be presented to the company. I demonstrated it to the product and sales groups and the response surprise mixed with enthusiasm. Non-technical stakeholders don’t typically concern themselves with software engineering internals. Making a single codebase out of three is a technical consideration that has no direct sales value. What they cared about was features, availability and how ahead the product is vs. the competition.
+
+Knowing that I made sure my new project preview delivered not only all the existing features from the legacy applications, but also some that spent years collecting dust in the “yeah, right” section of the roadmap and were meant to boost usability to new heights.
+
+Word travelled fast. With product and sales on my side, the new project was also presented to upper management including the CTO and CEO. The CEO, who was once a developer himself became the #1 fan of the new cross-platform project and that pretty much sealed the deal. The project was brought out of its “stealth” mode and formalized.
+
+Over the next few months my team and I slowly shifted our focus away from the legacy codebases and into the new one until it was finally launched. It took the legacy application a few more months to be completely phased out as clients upgraded to the new cross platform application which was faster, better looking, sported significant increased usability and most importantly, relied on a single C++ cross-platform codebase which boasted over 96% code overlap between Windows, Mac and Linux. Yay.
+
+Clients loved the new application and that significantly reflected in boost to sales. My status in the company was seriously upgraded and I was rewarded not only financially, but also in terms of how others, CTO included, viewed me, my contribution, and my input on anything technical from that moment on and for as long as I stayed with the company.
+
+“crazy” paid off with hefty dividends.
+
+How much risk can you afford?
+
+Everyone’s smart in hindsight. So yes, what I did turned out to be a success, but it wasn’t without risk. I knew from day one that in order for my gamble to pay off, I’d need to win on two separate fronts. The first one was technology but risk there was negligible. I was experienced enough to know with absolute certainty I can deliver. The second was more political in nature and therefore riskier. Corporate politics lies outside of my comfort zone and I wasn’t sure how my “subversive” act will be received by upper management. Or simply: I did not know what the reaction would be to me doing something I was explicitly told not to do —and doing it behind everyone’s backs.
+
+In the end my “rogue” move was recognized as the right thing to do, but I cannot dismiss the possibility things could have played out differently. I could have been scolded for running secret projects on company time or deliberately ignoring the chain of command. In addition I could have faced the consequences of bruising the egos of those above my station, especially those who initially dismissed the idea and were proven wrong in a most public way.
+
+Not all bosses are going to be graceful when their direct reports go to great lengths to prove them wrong and do so behind their backs, after being told not to. I knowingly took a risk that could have gotten me fired and I accepted that risk.
+
+How about you?
+
+What are the risks you should take in your career? There is no way for me to know. Your risk tolerance and circumstances may differ from mine. If I were to come up with a generalized rule toward risk, I’d probably say risk is something you should take only if you can afford the price of failure or if the price of not taking the risk outweighs the price of failure. In any case, the magnitude of the reward you reap upon success should always exceed that of the consequence of failure. By what factor? That I leave to you. At the end of the day, it’s your life and it’s your career. You should risk-manage based on your circumstances alone.
+
+Aftermath
+
+A few years later, when it was time to move on to the next challenge, The story of that maneuver was instrumental in landing me my first CTO role. It took a bit of “fearless” combined with a grain of “crazy” but it worked out pretty well
+
+TL;DR
+
+Soldiers on the battlefield sometimes see things generals miss. It’s the same in software. If you see something important your generals missed, speak up without fear, even in the face of upstream resistance.
+Never be afraid to take action in good faith with the good of the company in mind, but make sure your regular activities aren’t neglected.
+Giving them what they need vs. what they ask for is risky. Giving them what they need in addition to what they ask for is far less risky.
+When doing the above and beyond, always under-promise and over-deliver as a lifestyle choice.
+Reality is dynamic and ever-changing. Old assumptions rooted in old thinking are a silent killer of productivity and businesses alike. Learn to identify those assumptions, understand their impact and cost right now and going forward if unchanged. Once you realize not only what’s broken but also how to fix it — only then speak up and act.
+Talk is easy. Execution is harder. You transform yourself by getting things done, not serving as the voice of the Enterprise computer warning of “increasing core temperatures”. Only talk when you have identified a solution for the “core temperature” problem and you’re ready to begin executing it.
+Immutable beliefs belong in houses of worship, not software companies. Do not accept them if they collide with reality or harm the company, even if others don’t see them. Speak and act when issues are small. Dealing with issues is better early on vs. waiting for a house-fire.
+Never fear sharing your ideas upstream, outlandish as they may sound. Confront superiors if you have to as along as it’s done in a respectful ego-free manner. Just make sure your ideas are well thought and resistant to poking quick holes in them using obvious facts you’ve neglected to work into the equation.
+Convince with facts, not feelings and always remember that indicating what’s wrong is only the beginning. Getting others to accept the alternative you’re suggesting is what you’re really after. Be prepared to present and defend it. Do not promise unless you’re absolutely sure you can execute.
+In crunch times, do not wait for the last moment to try the “crazy” idea you’ve had for a while. You may not have the time. Try it earlier. It just may be the thing your company needs.
+Do not be afraid to go overboard with your thinking (aka “think big”). It might just work. You should already know where the technical border separating feasible and unrealistic passes.
+Do the “crazy” only if it benefits the company and is done in good faith, even if you bend the rules a bit. Always calculate the risk vs. reward first. Make sure you can afford the price of failure.
+Anti-Pattern #4 — You believe a demolition has no place in software development
+
+Photo by kerry rawlinson on Unsplash
+“My first thought — torch the place”
+
+The movie “Limitless” is the story of Eddie Morra, a chronic slob suffering from stunted literary aspirations and having the motivation of a deceased sloth. A random run-in with a drug-dealing acquaintance from his past lands him a sample of a new brain-supercharging designer drug. Having ingested a single dose, Eddie feels the effect of sudden super-intelligence compounded by high-octane motivation. As he returns to his run-down apartment he finds himself feeling appalled at overall condition of the place he calls home: dirt, grime, piles of garbage and food scraps scattered everywhere, not to mention a biohazard kitchen sink overflowing with dishes that haven’t been washed in weeks. The film’s non-linear narrative then recalls Eddie reaction: “My first thought — torch the place”.
+
+Torching an actual unit in an apartment building rarely leads to good places. However, ‘torching the place’ in the context of software development can sometimes do wonders, just like a good forest fire can really rejuvenate nature, allowing it to reinvent itself with even more brilliance than before.
+
+So why not apply a similar principle to codebases when called for?
+
+Software is always in perpetual construction
+
+In the dynamic landscape of software development, a project is often akin to a a house we continue to build, change, expand and even repurpose while living in it. It’s continually mutating, evolving over time as competition, technological advancements, and shifts in business strategy drive it in a perpetual do-or-die motion.
+
+Projects without healthy “bowel movement” are often on their last leg, involving a proverbial green pasture with just enough time enjoy a few last sunsets, so to speak. Ironically, it’s those projects that are very much alive, with beaming roadmaps and frequent feature spurts that may show signs of fatigue, excess fat, or code-malignancy, as new and shiny components are built, like glass towers over the rundown facade of yesterday’s downtown no one cares about anymore.
+
+Some call this “technical debt”. I agree, to a point. When you have an interest accruing debt, the longer you delay paying it off, the more it’ll cost you in the end, but that debt is almost always predictable. As long as interest rates doesn’t change, you can always tell with pretty good accuracy how much you’ll have to pay to settle your debt, regardless of how long you’ll stretch it for.
+
+However, imagine your 5% APR mortgage changed to 1000% APR overnight. You most likely won’t be able to keep up. Technical debt doesn’t work like monetary debt. The interest rate for technical debt can fluctuate between nothing and everything in a Palo Alto minute, sometime with disastrous results. Technical debt can be the earthquake you never saw coming. Left unchecked it can cause core-shaking disruptions such as unexpected production issues, lengthy outages, client data loss and other forms of unforeseen plagues, all of tend to negatively impact a company’s bottom line — client retention, reputation and revenue.
+
+The 800 pound bomb in the room no one wants to talk about
+
+It’s pattern I’ve witnessed dozens of times in software companies. I truly think it merits serious study by psychologists because the only phrase I can honestly use to describe it is “deliberate exercise in optimistic insanity”.
+
+Imagine this: everyone knows about the time bombs in the codebase:
+
+The unstable legacy code, the one you pray will continue to work or don’t even understand why it even works.
+The dangling set of unused components left in the code after the last pivot.
+The new set of features that was developed and hooked up to the main layers of the application with TTM in mind vs. quality, stability and maintainability.
+The scaling issues you always put off because “as of last week” no real need exists for scaling that actually works.
+That chronic dormant problem which creates a barricade at future point along the roadmap. That problem currently being ignored by developers simply because the company “isn’t there yet”, despite knowing all too well others in the company are working tirelessly to “get it there”, and they’re making progress…
+And somehow, despite of all that, everyone will avoid doing something about it, citing day-to-day work should takes precedence. Everyone seems to be waiting for that meteor to hit in order to believe the meteor is real, and through deliberate inaction, insist on meeting it completely unprepared for the consequences.
+
+“Formidable foe, the power of denial is” Yoda would pontificate, had he been in tech.
+
+The price of dealing with it “later”
+
+Statistically, the only wake up call stakeholders are guaranteed to respond to is that “Oh Shit” alarm going off — when production issues have already force an outage so severe, a quick fix is no longer an option. Historically, it’s been proven shit always hits the fan at the exact moment in time we refer to as RIGHT NOW. Well, this is one of those moments and there’s no easy escape. A scary realization begins to take form:
+
+This isn’t a caused by a “bug” we can quickly fix. This is caused by a lengthy history of neglect and mis-proioritization. Radar shows multiple chickens inbound, roosting configuration.
+
+You think stopping the feel-good momentum of developing new features for a while just to pay off some boring technical debt while you’re still on a 40-hour workweek schedule can leaves a sour taste?
+
+Try doing that to the deafening cacophony of distraught “somebody help me” calls from angry clients added to the mix while upper management frantically looks to staple a name and face to the fiasco as everyone begin to play squid-game inspired game of hot-potato. You lose the game, your job dies in real life. Admit it — you can think of much better ways to spend a Friday evening just before a national holiday Monday to which you’ve already made plans. Perhaps you should have planned better.
+
+If the hot-potato game while management looks for human sacrifice analogy doesn’t seem in place (“because we’re all a team here!”), clearly you’ve never worked a software development job for a large New York financial institution during bonus season, just as a silly DST miscalculation bug triggers an algo-trading outage one hour before the 4pm markets close, resulting in a 7 figure loss, repeated daily, until the issue is identified and fixed. If I had to think of a movie cliché that best conveys the real life scene which followed, I’d have go with the group of old-time-buddies having drinks at a sports bar as patient-zero of freshly brewing zombie apocalypse walks in. By the end of the night, buddies or not, they’ll be devouring each other. I’ve been to that bar in 2009. I know it sounds a bit like a made up industry folk tale, but it’s 100% real, including the DST bug and its effect. “Devouring each other” is merely a figurative depiction of devs pointing fingers at each other, desperately trying to avoid the responsibility and blame but predominantly the deflated bonus that goes with “identifying the idiot who fucked up” as one executive succinctly put it.
+
+“10x” vs. “1x”
+
+With respect to the “shit and fan” scenario, there is a clear difference between how “10x” software developers and their “1x” counterparts conduct themselves. “1x” tends to be reactive, while “10x” is typically more proactive, and therefore more likely to:
+
+Identify the gaps, rust, derelict components and potential landmines in the codebase as they begin to form. Before they’re a real threat.
+Have a good sense when things might blow up in the company’s face, and plan how to mitigate the risk.
+Be unafraid to stop, use the proverbial wrecking ball, yank out the rotten, refactor the gaps, and “normalize/harmonize” the codebase when chunks of new work is thrown into the mix with old legacy components.
+Believe in the “Broken Window Theory”: The understanding that broken windows left unfixed in an urban setting tend to multiply and can send a good neighborhood down the path of becoming a slum, from which a come-back is nearly impossible.
+Frown on the prospect of trusting luck, or tolerating fragile, “scary” or poorly understood parts of the codebase. They’re proactive to prevent catastrophe, taking action to make sure they never to find themselves being reactive in a pickle, scrambling for a fix under unfavorable emergency conditions. Had 10x software developers been cops, there wouldn’t be “no-go” zone anywhere within their precinct.
+“1x” developers tend to focus on “the plan forward”. They rarely look back or climb to 30,000 feet to take a good look at the codebase holistically. They will rarely stop to initiate a massive preventative surgery unless explicitly ordered to do so. As a result, they are typically taken by surprise, along with the rest of the company, when karma strikes. Hence reactive.
+
+TL;DR
+
+A software project is a constant construction project. It never stops unless it’s being sunsetted or killed off altogether.
+Finished code can and will rot, not because it merely “gets old”, but because the context, demands and environment in which it runs constantly mutates. It’s not the spoon that bends, it’s everything else bending around it, to paraphrase another nerdy movie we all love.
+Building new features on top of legacy infrastructure is likely to bring that infrastructure beyond its design limitations at some point, at which things will begin to break.
+If “Peace Time” is an analogy to smooth sailing in production and “under fires” is to facing angry clients during a major production outage, surely you’d agree peace time is the preferred timing to diffuse any potentially lethal landmine. Doing so when you’re already under fire isn’t a pleasant experience and it might just kill you and your company (military pun intended).
+Never hesitate to act once you’ve identified a codebase landmine. Wreck-ball, refactor, repair, and strive to keep the codebase harmonized as it moves through time, balancing old and new as seamlessly as possible and with elegance.
+Strive to have an ongoing 30,000 feet grasp of the codebase. It will pay off in more than one way.
+By being the champion of project cohesion and harmony, you will gain recognition and elevate your status. Being the one who actually knows “what’s going on” everywhere has many benefits. Never think of it as extra work. It’s extra opportunity.

@@ -17,35 +17,6 @@ def write_words(file_path, words):
 def extract_words(text):
     return set(re.findall(r'\b[a-zA-Z]+\b', text.lower()))
 
-def select_file(stdscr, directory):
-    files = [f for f in os.listdir(directory) if f.endswith('.txt')]
-    current_row = 0
-
-    while True:
-        stdscr.clear()
-        stdscr.addstr(0, 0, "Select a file to open [q to quit]:", curses.color_pair(2))
-
-        for idx in range(min(20, len(files))):
-            file = files[idx]
-            if idx == current_row:
-                stdscr.attron(curses.color_pair(1))
-                stdscr.addstr(idx + 1, 0, file)
-                stdscr.attroff(curses.color_pair(1))
-            else:
-                stdscr.addstr(idx + 1, 0, file)
-
-        stdscr.refresh()
-        key = stdscr.getch()
-
-        if key == curses.KEY_UP and current_row > 0:
-            current_row -= 1
-        elif key == curses.KEY_DOWN and current_row < len(files) - 1:
-            current_row += 1
-        elif key == ord('\n'):
-            return os.path.join(directory, files[current_row])
-        elif key == ord('q'):
-            return None
-
 def curses_menu(stdscr, known_words, unknown_words, file_list):
     current_column = 0  # 0 = unknown words, 1 = known words, 2 = file selector
     current_row = 0
@@ -143,25 +114,19 @@ def curses_menu(stdscr, known_words, unknown_words, file_list):
 
             elif current_column == 2 and current_row < len(file_list):
                 selected_file = os.path.join('learn', file_list[current_row])
-                if not os.path.isfile(selected_file):
-                    continue
-
-                try:
-                    with open(selected_file, 'r', encoding='utf-8') as file:
-                        text = file.read()
-                except Exception as e:
-                    continue
-
-                new_words = extract_words(text)
-                write_words('data/current_file.txt', [text])
-
-                all_unknown_words = set(unknown_words) | (new_words - set(known_words))
-                write_words('data/unknown_words.txt', list(all_unknown_words))
-
-                # Delete the selected file
-                os.remove(selected_file)
-                current_row = 0  # Reset row after processing a file
-                scroll_offsets[2] = 0  # Reset scroll offset for file list
+                if os.path.isfile(selected_file):
+                    try:
+                        with open(selected_file, 'r', encoding='utf-8') as file:
+                            text = file.read()
+                        new_words = extract_words(text)
+                        all_unknown_words = set(unknown_words) | (new_words - set(known_words))
+                        write_words('data/unknown_words.txt', list(all_unknown_words))
+                        os.remove(selected_file)  # Delete the file after processing
+                        known_words = list(read_file('data/known_words.txt').splitlines())
+                        unknown_words = list(read_file('data/unknown_words.txt').splitlines())
+                        file_list = [f for f in os.listdir('learn') if f.endswith('.txt')]
+                    except Exception as e:
+                        continue
 
         elif key == ord('q'):
             break
